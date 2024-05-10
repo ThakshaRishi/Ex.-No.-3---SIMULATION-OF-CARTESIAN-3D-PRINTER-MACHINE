@@ -60,14 +60,7 @@
 
 ## Output:
 
-![image](https://github.com/ThakshaRishi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870423/07ee71d6-2923-482c-bd1f-0856db60da15)
-
-![image](https://github.com/ThakshaRishi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870423/38e63047-9043-48e5-bbd5-307c496670ff)
-
-![image](https://github.com/ThakshaRishi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870423/23fcfdc3-17e6-4c02-9043-254f727e0c74)
-
-![image](https://github.com/ThakshaRishi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870423/ae557ea3-c55a-4e5c-91d7-a1ee02994e21)
-
+![image](https://github.com/ThakshaRishi/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870423/de1876d1-83a7-4884-8664-ba613876b66a)
 
 ### Name: Thaksha Rishi
 ### Register Number:212223100058
